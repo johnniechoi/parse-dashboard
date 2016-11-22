@@ -1,9 +1,16 @@
 {
   "apps": [{
-    "serverURL": "",
-    "appId": "",
-    "masterKey": "",
-    "appName": "",
+    "serverURL": "https://tiny-parse-server.herokuapp.com/",
+    "appId": "tiygvl",
+    "masterKey": "learntocode",
+    "appName": "Tiny Parse Server",
+    "iconName": ""
+  },
+  {
+    "serverURL": "https://masterj.herokuapp.com/",
+    "appId": "masterj",
+    "masterKey": "hello",
+    "appName": "masterj server",
     "iconName": ""
   }],
   "iconsFolder": "icons"
